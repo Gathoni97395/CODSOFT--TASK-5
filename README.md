@@ -43,10 +43,10 @@ The model's performance is evaluated using the following metrics:
 
 Based on the chosen model and hyperparameters, the results are summarized as follows:
 
-- Accuracy: 99.8%
-- Precision: 0.96
-- Recall: 0.85
-- F1-Score: 0.90
+- Accuracy: 
+- Precision: 
+- Recall: 
+- F1-Score: 
 
-## Contributing
+
 
