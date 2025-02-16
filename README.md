@@ -29,7 +29,7 @@ The data was then split into training and test sets.
 Model Selection:
     Several machine learning models were tested, including Logistic Regression and Random Forest
     The models were trained and evaluated based on accuracy, precision, recall, and F1-score.
-### Model Evaluation**:
+### Model Evaluation:
    - The model was evaluated using a confusion matrix to calculate the precision, recall, and F1-score, as fraudulent transactions are rare and require special attention to false positives and false negatives.
 
 ## Results
